@@ -6,4 +6,5 @@ int main(){
   std::cin >> name;
   std::cout << "Hello world from " << name << endl;
   return 0;
-}
+}//Комментарий
+
