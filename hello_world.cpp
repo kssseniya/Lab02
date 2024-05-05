@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-//function
+//функция
 int main() {
   string name;
   cout << "Enter your name:" << endl;
