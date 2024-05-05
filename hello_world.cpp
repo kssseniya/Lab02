@@ -1,8 +1,7 @@
 #include <iostream>
 #include <string>
 //функция
-int
-main() {
+int main() {
   string name;
   cout << "Enter your name:" << endl;
   cin >> name; //ввод имени
